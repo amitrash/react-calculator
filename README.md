@@ -1,6 +1,6 @@
 # react-calculator
 simle calculator app using reatjs
 
-Link toi the app:
+Link to the app:
 
 https://amitrash.github.io/react-calculator/

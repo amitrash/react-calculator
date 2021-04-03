@@ -1,3 +1,5 @@
 # react-calculator
-simple calculator using reactjs
+
+Link toi the app:
+
 https://amitrash.github.io/react-calculator/

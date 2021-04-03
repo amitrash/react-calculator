@@ -1,4 +1,5 @@
 # react-calculator
+simle calculator app using reatjs
 
 Link toi the app:
 
